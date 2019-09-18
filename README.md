@@ -1,3 +1,6 @@
+Choose the region among:
+- N.Virginia, Ohio, Oregon, Singapore, Tokyo, Ireland
+
 ### 0. Create SageMaker Jupyter Notebook
 - Follow the instruction of below link's **Lab 0**
 - https://s3.amazonaws.com/sagemaker-workshop/2018_04_southerndatascienceconference/Labs/index.html
@@ -15,6 +18,7 @@
 git clone https://github.com/aws-samples/amazon-forecast-samples.git
 ```
 - Move to the notebook folder and follow the instruction of 1, 2, 3 ipynb.
+- * Change the region 'us-west-2' to the region that you are working on
 
 ### 3. Time-series forecasting with DeepAR
 - Follow the instoruction of **deepar_electricity example** in introduction_to_amazon_algorithms folder.
