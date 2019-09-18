@@ -1,13 +1,16 @@
 ## 0. Create SageMaker Jupyter Notebook
 - Follow the instruction of below link's **Lab 0**
 - https://s3.amazonaws.com/sagemaker-workshop/2018_04_southerndatascienceconference/Labs/index.html
+- For the instance type, **choose ml.m5.xlarge**
+- When creating IAM role, **choose Any S3 bucket**
 
 ## 1. Built-in Linear Learner algorithm
 - Follow the instoruction of **linear_time_series_forecast** example in introduction_to_applying_machine_learning folder
 - Ref : https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_applying_machine_learning/linear_time_series_forecast/linear_time_series_forecast.ipynb
 
 ## 2. Amazon Forecast
-- Open termial at your Jupyter notebook
+- Open new Termial window at your Jupyter notebook
+- Move to the SageMaker folder (/home/ec2-user/SageMaker/)
 - **git clone https://github.com/aws-samples/amazon-forecast-samples.git**
 - Move to the notebook folder and follow the instruction of 1, 2, 3 ipynb.
 
