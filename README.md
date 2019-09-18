@@ -11,7 +11,9 @@
 ### 2. Amazon Forecast
 - Open new Termial window at your Jupyter notebook
 - Move to the SageMaker folder (/home/ec2-user/SageMaker/)
-- git clone https://github.com/aws-samples/amazon-forecast-samples.git
+```bash
+git clone https://github.com/aws-samples/amazon-forecast-samples.git
+```
 - Move to the notebook folder and follow the instruction of 1, 2, 3 ipynb.
 
 ### 3. Time-series forecasting with DeepAR
