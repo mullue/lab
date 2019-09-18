@@ -16,10 +16,10 @@
 - Ref : https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_amazon_algorithms/deepar_electricity/DeepAR-Electricity.ipynb
 
 ## 4. Clear the resources
-### Amazon Forecast
+#### Amazon Forecast
 - Delete resources within dataset group (datasets, predictors, forecasts)
 - Delete the dataset group
-### SageMaker
+#### SageMaker
 - Delete SageMaker endpoints
 - Delete SageMaker Notebook
 - Delete S3 bucket
