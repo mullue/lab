@@ -1,18 +1,18 @@
 ## 0. Create SageMaker Jupyter Notebook
-- Follow the instruction of below link's Lab 0 
+- Follow the instruction of below link's **Lab 0**
 - https://s3.amazonaws.com/sagemaker-workshop/2018_04_southerndatascienceconference/Labs/index.html
 
 ## 1. Built-in Linear Learner algorithm
-- Follow the instoruction of linear_time_series_forecast example in introduction_to_applying_machine_learning folder
+- Follow the instoruction of **linear_time_series_forecast** example in introduction_to_applying_machine_learning folder
 - Ref : https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_applying_machine_learning/linear_time_series_forecast/linear_time_series_forecast.ipynb
 
 ## 2. Amazon Forecast
 - Open termial at your Jupyter notebook
-- git clone https://github.com/aws-samples/amazon-forecast-samples.git
+- **git clone https://github.com/aws-samples/amazon-forecast-samples.git**
 - Move to the notebook folder and follow the instruction of 1, 2, 3 ipynb.
 
 ## 3. Time-series forecasting with DeepAR
-- Follow the instoruction of deepar_electricity example in introduction_to_amazon_algorithms folder.
+- Follow the instoruction of **deepar_electricity example** in introduction_to_amazon_algorithms folder.
 - Ref : https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_amazon_algorithms/deepar_electricity/DeepAR-Electricity.ipynb
 
 ## 4. Clear the resources
