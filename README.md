@@ -7,7 +7,7 @@
 
 ### 1. Built-in Linear Learner algorithm
 - Follow the instoruction of **linear_time_series_forecast** example in introduction_to_applying_machine_learning folder
-- Or clone this github code (if you have an issue to download the gasoline.csv file
+- Or clone this github code (if you have an issue to download the gasoline.csv file)
 ```bash
 git clone https://github.com/mullue/lab.git
 ```
